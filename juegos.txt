@@ -2,3 +2,5 @@ Parchis
 Dominó
 Monopoly
 Uno
+Risk
+Catán
