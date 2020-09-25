@@ -1,2 +1,4 @@
 Parchis
 Dominó
+Monopoly
+Uno
