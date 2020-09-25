@@ -1,2 +1,7 @@
 Pinzas
 Guantes
+Delantal
+Tenedor
+Rejilla
+Cuchillos
+Carbón
