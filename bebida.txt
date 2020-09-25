@@ -1,2 +1,8 @@
 Coca-Cola
 Fanta
+Sprite
+Fanta de Naranja
+Vodka
+Ginebra
+Mas Ginebra
+Mucha mas Ginebra
